@@ -1,4 +1,4 @@
-Zoio - Previsão de Cegueira por Diabetes
+# Zoio - Previsão de Cegueira por Diabetes
 
 Este repositório contém o código-fonte do Zoio, uma aplicação web desenvolvida para a Imagine Cup 2025, com o objetivo de prever a probabilidade de cegueira em pacientes diabéticos. O projeto utiliza tecnologias modernas para oferecer uma interface intuitiva e acessível, permitindo que usuários avaliem seu risco e recebam recomendações personalizadas.
 
